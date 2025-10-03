@@ -1,0 +1,10 @@
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-chroma
+beautifulsoup4
+sentence-transformers
+fastapi
+uvicorn
+pydantic
+chromadb

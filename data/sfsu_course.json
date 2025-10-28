@@ -1,0 +1,100 @@
+[
+  {
+    "source": "Course Catalog - CSC 101",
+    "category": "course",
+    "title": "CSC 101 - Introduction to Computer Science",
+    "content": "Course: CSC 101 - Introduction to Computer Science\n\nUnits: 3\n\nDescription: Introduction to fundamental concepts of computer science. Problem-solving techniques, algorithm development, and programming fundamentals.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 101\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 210",
+    "category": "course",
+    "title": "CSC 210 - Programming Principles",
+    "content": "Course: CSC 210 - Programming Principles\n\nUnits: 3\n\nDescription: Object-oriented programming, data structures, algorithm design, and software development practices.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 210\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 220",
+    "category": "course",
+    "title": "CSC 220 - Data Structures",
+    "content": "Course: CSC 220 - Data Structures\n\nUnits: 3\n\nDescription: Advanced data structures including linked lists, stacks, queues, trees, graphs, hash tables, and their implementations.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 220\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 230",
+    "category": "course",
+    "title": "CSC 230 - Discrete Mathematical Structures for Computer Science",
+    "content": "Course: CSC 230 - Discrete Mathematical Structures for Computer Science\n\nUnits: 3\n\nDescription: Discrete mathematics for computer science including logic, sets, functions, relations, combinatorics, and graph theory.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 230\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 256",
+    "category": "course",
+    "title": "CSC 256 - Introduction to Algorithm Analysis and Design",
+    "content": "Course: CSC 256 - Introduction to Algorithm Analysis and Design\n\nUnits: 3\n\nDescription: Algorithm design techniques, complexity analysis, sorting, searching, and algorithmic problem-solving.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 256\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 317",
+    "category": "course",
+    "title": "CSC 317 - Web Software Development",
+    "content": "Course: CSC 317 - Web Software Development\n\nUnits: 3\n\nDescription: Full-stack web application development using modern frameworks, databases, and cloud technologies.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 317\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 340",
+    "category": "course",
+    "title": "CSC 340 - Programming Methodology",
+    "content": "Course: CSC 340 - Programming Methodology\n\nUnits: 3\n\nDescription: Software development methodologies, design patterns, testing, version control, and team collaboration.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 340\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 413",
+    "category": "course",
+    "title": "CSC 413 - Software Development",
+    "content": "Course: CSC 413 - Software Development\n\nUnits: 3\n\nDescription: Software engineering principles, agile methodologies, project management, and full-cycle development.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 413\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 415",
+    "category": "course",
+    "title": "CSC 415 - Operating Systems Principles",
+    "content": "Course: CSC 415 - Operating Systems Principles\n\nUnits: 3\n\nDescription: Operating system concepts: processes, threads, scheduling, memory management, file systems, and synchronization.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 415\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 510",
+    "category": "course",
+    "title": "CSC 510 - Analysis of Algorithms I",
+    "content": "Course: CSC 510 - Analysis of Algorithms I\n\nUnits: 3\n\nDescription: Advanced algorithm design and analysis, complexity theory, NP-completeness, and optimization techniques.\n\nDepartment: Computer Science\nLevel: Undergraduate\nCourse Code: CSC 510\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 600",
+    "category": "course",
+    "title": "CSC 600 - Advanced Topics in Computer Science",
+    "content": "Course: CSC 600 - Advanced Topics in Computer Science\n\nUnits: 3\n\nDescription: Graduate-level seminar covering current research topics in computer science.\n\nDepartment: Computer Science\nLevel: Graduate\nCourse Code: CSC 600\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 645",
+    "category": "course",
+    "title": "CSC 645 - Computer Networks",
+    "content": "Course: CSC 645 - Computer Networks\n\nUnits: 3\n\nDescription: Network protocols, architecture, TCP/IP, routing, network security, and distributed systems.\n\nDepartment: Computer Science\nLevel: Graduate\nCourse Code: CSC 645\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 667",
+    "category": "course",
+    "title": "CSC 667 - Advanced Database Management Systems",
+    "content": "Course: CSC 667 - Advanced Database Management Systems\n\nUnits: 3\n\nDescription: Advanced database concepts, query optimization, transaction processing, distributed databases.\n\nDepartment: Computer Science\nLevel: Graduate\nCourse Code: CSC 667\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  },
+  {
+    "source": "Course Catalog - CSC 690",
+    "category": "course",
+    "title": "CSC 690 - Master's Project",
+    "content": "Course: CSC 690 - Master's Project\n\nUnits: 3\n\nDescription: Individual research project under faculty supervision culminating in written report and presentation.\n\nDepartment: Computer Science\nLevel: Graduate\nCourse Code: CSC 690\n",
+    "url": "https://bulletin.sfsu.edu/courses/csc/"
+  }
+]

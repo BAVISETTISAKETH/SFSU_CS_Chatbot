@@ -58,11 +58,18 @@ Thumbs.db
 # Vector databases
 vector_db/
 chroma.sqlite3
+chroma_db/
 
 # Large data files (exclude large JSON files)
 data/sfsu_cs_query_system.raw_pages.json
 data/sfsu_cs_query_system.processed_documents.json
 data/sfsu_cs_query_system.vectors.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.next/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -75,3 +82,8 @@ data/sfsu_cs_query_system.vectors.json
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Problematic files
+D:sfsu-cs-chatbotdata
+D*sfsu-cs-chatbotdata*
+NUL

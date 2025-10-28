@@ -1,0 +1,50 @@
+[
+  {
+    "code": "CSC 101",
+    "title": "Introduction to Computer Science",
+    "description": "Introduction to computer science fundamentals, problem-solving, and programming.",
+    "units": 3
+  },
+  {
+    "code": "CSC 210",
+    "title": "Programming Principles",
+    "description": "Object-oriented programming, data structures, and algorithm design.",
+    "units": 3
+  },
+  {
+    "code": "CSC 220",
+    "title": "Data Structures",
+    "description": "Advanced data structures including trees, graphs, heaps, and hash tables.",
+    "units": 3
+  },
+  {
+    "code": "CSC 317",
+    "title": "Web Development",
+    "description": "Full-stack web development using modern frameworks and technologies.",
+    "units": 3
+  },
+  {
+    "code": "CSC 413",
+    "title": "Software Development",
+    "description": "Software engineering principles, team development, and project management.",
+    "units": 3
+  },
+  {
+    "code": "CSC 415",
+    "title": "Operating Systems",
+    "description": "Operating system concepts including processes, threads, memory management.",
+    "units": 3
+  },
+  {
+    "code": "CSC 510",
+    "title": "Analysis of Algorithms",
+    "description": "Algorithm design and analysis, complexity theory, optimization.",
+    "units": 3
+  },
+  {
+    "code": "CSC 600",
+    "title": "Graduate Seminar",
+    "description": "Advanced topics in computer science for graduate students.",
+    "units": 3
+  }
+]

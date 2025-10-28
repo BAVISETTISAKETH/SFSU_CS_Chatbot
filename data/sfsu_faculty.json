@@ -1,0 +1,23 @@
+[
+  {
+    "source": "Faculty Directory",
+    "category": "faculty",
+    "title": "Dr. Ilmi Yoon",
+    "content": "Faculty Member: Dr. Ilmi Yoon\n\nTitle: Professor & Department Chair\nEmail: iyoon@sfsu.edu\nOffice Location: Thornton Hall\n\nResearch Interests: Software Engineering, Mobile Computing, Computer Science Education\n\nDepartment: Computer Science\nSan Francisco State University\n",
+    "url": "https://cs.sfsu.edu/people"
+  },
+  {
+    "source": "Faculty Directory",
+    "category": "faculty",
+    "title": "Dr. Anagha Kulkarni",
+    "content": "Faculty Member: Dr. Anagha Kulkarni\n\nTitle: Associate Professor\nEmail: anagha@sfsu.edu\nOffice Location: Thornton Hall\n\nResearch Interests: Artificial Intelligence, Machine Learning, Data Science\n\nDepartment: Computer Science\nSan Francisco State University\n",
+    "url": "https://cs.sfsu.edu/people"
+  },
+  {
+    "source": "Faculty Directory",
+    "category": "faculty",
+    "title": "Dr. Mike Murphy",
+    "content": "Faculty Member: Dr. Mike Murphy\n\nTitle: Professor\nEmail: murphy@sfsu.edu\nOffice Location: Thornton Hall\n\nResearch Interests: Software Engineering, Web Development, Database Systems\n\nDepartment: Computer Science\nSan Francisco State University\n",
+    "url": "https://cs.sfsu.edu/people"
+  }
+]
